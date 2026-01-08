@@ -229,3 +229,7 @@ Para utilizar o sistema com outro ativo financeiro, é necessário:
 
 Essa abordagem garante flexibilidade e reutilização do pipeline para
 diferentes ações ou ativos financeiros.
+
+```text
+Obs.: A API foi executada localmente via Docker e FastAPI.
+```
