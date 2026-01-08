@@ -1,0 +1,73 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ========================
+# Ambientes virtuais
+# ========================
+venv/
+env/
+.venv/
+.virtualenv/
+
+# ========================
+# Variáveis de ambiente
+# ========================
+.env
+.env.*
+*.env
+
+# ========================
+# Arquivos de build
+# ========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ========================
+# Testes e cobertura
+# ========================
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# ========================
+# Logs
+# ========================
+*.log
+
+# ========================
+# IDEs e editores
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ========================
+# Jupyter Notebook
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# OS
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Ferramentas de qualidade
+# ========================
+.mypy_cache/
+.ruff_cache/
+.pytype/
+
+# ========================
+# Docker
+# ========================
+*.pid
